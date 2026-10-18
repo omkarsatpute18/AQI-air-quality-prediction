@@ -20,6 +20,18 @@ The project is designed according to the mini-project requirements provided by t
 
 ---
 
+## 🖥️ Streamlit Application
+
+A Streamlit GUI was created to make the model usable without directly interacting with the notebook.
+
+### 🌐 Live Demo
+
+The application is deployed and available online:
+
+👉 **[Open the AQI Prediction Application](https://airqualityindexprediction123.streamlit.app/)**
+
+The user enters pollutant measurements, and the application uses the trained machine-learning pipeline to predict AQI.
+
 ## 🎯 Objectives
 
 - Use a real-world air-quality dataset.
