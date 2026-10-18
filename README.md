@@ -28,7 +28,7 @@ A Streamlit GUI was created to make the model usable without directly interactin
 
 The application is deployed and available online:
 
-👉 **[Open the AQI Prediction Application](https://airqualityindexprediction123.streamlit.app/)**
+👉 **[Open the AQI Prediction Application](https://aqi-air-quality-prediction.vercel.app/)**
 
 The user enters pollutant measurements, and the application uses the trained machine-learning pipeline to predict AQI.
 
